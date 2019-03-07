@@ -43,7 +43,7 @@ def tokenizer(text): # create a tokenizer function
 
 def main(config, progress):
     # save config file
-    with open("./log/config_files.txt", "a+") as f:
+    with open("./log/config_history.txt", "a+") as f:
         f.write(json.dumps(config) + "\n")
     
     logging.info("*"*80)

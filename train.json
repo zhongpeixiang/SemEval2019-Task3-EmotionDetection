@@ -17,7 +17,7 @@
   "twitter_embedding": [0,1,2,3],
   "twitter_embedding_file": "",
   "freeze_epochs": 2,
-  "use_deepmoji": 1,
+  "use_deepmoji": 0,
   "infersent_file": "",
   "use_elmo": 0,
   "use_bert_word": 0,
