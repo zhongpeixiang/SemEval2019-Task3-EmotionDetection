@@ -2,6 +2,7 @@
 
 ### Dependencies
 - Python 3.5+
+- Numpy 1.15+
 - PyTorch 1.0+
 - torchtext 0.3.1+
 - Spacy 2.0+
